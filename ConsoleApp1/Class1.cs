@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
     new database;
+    hdad l
+        ;
     internal class Class1
     {
 
